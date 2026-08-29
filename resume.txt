@@ -1,7 +1,13 @@
 this is my resume
-<<<<<<< HEAD
-i am a cloud engineer
-=======
 i am a elect engineer
->>>>>>> login-branch
 navaneetha QA
+
+
+
+
+
+
+
+
+
+
